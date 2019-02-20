@@ -1,0 +1,15 @@
+.create_game {
+  padding-top: 80px;
+  padding-left: 20px;
+  padding-right: 20px;
+  text-align: center;
+}
+
+.create_game h1 {
+  font-size: 80px;
+}
+
+.create_game .qrcode_container canvas {
+  height: 300px;
+  width: 300px;
+}
